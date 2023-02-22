@@ -1,3 +1,5 @@
+#Desenvolvido por: MayconMaiaDev
+
 """
 Python = linguagem de tipagem dinamica / forte
 

@@ -1,3 +1,5 @@
+#Desenvolvido por: MayconMaiaDev
+
 # Tipos int e float 
 # int -. Numero inteiro
 # O tipo int representa qualquer numero
